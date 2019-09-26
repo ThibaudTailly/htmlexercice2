@@ -1,0 +1,41 @@
+.formulaire{
+text-align: center;
+box-shadow: 0 0 1px 1px;
+width: 500px;
+height: 600px;
+margin-left: 35%;
+}
+h1{
+    font-family: Highway Gothic Wide Regular;
+    font-size: 25px;
+    text-align:left;
+    margin-left: 12px;
+
+}
+h2{
+    font-family: Highway Gothic Wide Regular;
+    text-align:left;
+    color: grey;
+    font-weight: normal;
+    margin-top: -2%;
+    margin-left: 8px;
+}
+h1 .logo{
+    margin-left: -5px;
+    margin-right: -5px;
+    width:30px;
+}
+.logo2{
+    
+    margin-left: 40px;
+    text-align: right;
+    margin-bottom: -42px;
+    width:60px;
+}
+.deux{
+    text-align: left;
+}
+.deux p{
+    color:blue;
+}
+
